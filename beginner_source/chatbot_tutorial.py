@@ -13,11 +13,12 @@ Chatbot Tutorial
 # scripts from the `Cornell Movie-Dialogs
 # Corpus <https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html>`__.
 #
-# Conversational models are a hot topic in artificial intelligence
-# research. Chatbots can be found in a variety of settings, including
-# customer service applications and online helpdesks. These bots are often
-# powered by retrieval-based models, which output predefined responses to
-# questions of certain forms. In a highly restricted domain like a
+# 대화형 모델은 인공지능 연구에서 많은 관심을 받는 주제입니다. 
+# 챗봇은 고객 서비스 활용, 온라인 헬프데스크를 포함하여 
+# 다양한 분야에서 사용됩니다. 
+# 챗봇은 검색 기반 (retrieval-based) 모델인 경우가 많은데, 
+# 이는 특정한 형식의 질문에 미리 정의된 답변을 출력하는 것입니다.  
+# In a highly restricted domain like a
 # company’s IT helpdesk, these models may be sufficient, however, they are
 # not robust enough for more general use-cases. Teaching a machine to
 # carry out a meaningful conversation with a human in multiple domains is
